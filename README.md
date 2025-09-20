@@ -16,3 +16,28 @@ To run the server locally:
 cd does-issue-server
 npm install
 node server.js
+🌐 Public Interface
+The public-facing interface is hosted on GitHub Pages and includes:
+
+index.html: Displays live issues and links to the submission form
+
+issueForm.html: Form for submitting new issues
+
+🗂 Structure
+does-issue-server/: Express server that handles form submissions and posts to GitHub
+
+issueForm.html: Form interface
+
+index.html: Issue browser and launcher
+
+script.js: Fetches and filters issues from GitHub
+
+🛠 Technologies
+HTML/CSS/JavaScript
+
+Node.js + Express
+
+GitHub REST API
+
+🧭 Purpose of This Backup
+This repo serves as a snapshot of the working project, allowing easy restoration or experimentation without affecting the live version.
