@@ -26,6 +26,9 @@ index.html: Issue browser and launcher
 
 script.js: Fetches and filters issues from GitHub
 
+🧭 Purpose of This Backup
+This repo serves as a snapshot of the working project, allowing easy restoration or experimentation without affecting the live version.
+
 🛠 Technologies
 
 To run the server locally:
@@ -40,6 +43,3 @@ HTML/CSS/JavaScript
 Node.js + Express
 
 GitHub REST API
-
-🧭 Purpose of This Backup
-This repo serves as a snapshot of the working project, allowing easy restoration or experimentation without affecting the live version.
