@@ -10,12 +10,6 @@ This is a backup of the working DoESLiverpool issue submission interface as of *
 
 ## 🧪 Local Setup
 
-To run the server locally:
-
-```bash
-cd does-issue-server
-npm install
-node server.js
 🌐 Public Interface
 The public-facing interface is hosted on GitHub Pages and includes:
 
@@ -33,6 +27,14 @@ index.html: Issue browser and launcher
 script.js: Fetches and filters issues from GitHub
 
 🛠 Technologies
+
+To run the server locally:
+
+```bash
+cd does-issue-server
+npm install
+node server.js
+
 HTML/CSS/JavaScript
 
 Node.js + Express
